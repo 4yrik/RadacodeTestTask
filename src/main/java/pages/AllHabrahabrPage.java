@@ -2,7 +2,6 @@ package pages;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.*;
-
 import java.util.List;
 
 public class AllHabrahabrPage {
